@@ -1,8 +1,8 @@
 # menteeJS
 
-Lissette Almonte
-First Node.js application
-MEAN Stack development
+- Lissette Almonte
+- First Node.js application
+- MEAN Stack development
 
 TO RUN:
 1. cd folder directory
